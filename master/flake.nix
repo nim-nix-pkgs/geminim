@@ -11,7 +11,6 @@
   inputs.src-geminim-master.ref   = "refs/heads/master";
   inputs.src-geminim-master.owner = "IDF31";
   inputs.src-geminim-master.repo  = "geminim";
-  inputs.src-geminim-master.dir   = "";
   inputs.src-geminim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
