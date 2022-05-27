@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652791471,
-        "narHash": "sha256-gLsU9vL3U2jYMCY45AqYQTPS5DFDP1KZb8pv2jyGgBk=",
+        "lastModified": 1652796984,
+        "narHash": "sha256-Aqrfaxixw6cqRQfhOUUbuQjw2QzvP4bVnXt3jCt7q/8=",
         "owner": "nim-nix-pkgs",
         "repo": "geminim",
-        "rev": "c11633b249d3c9a417ba85ab7e2cd9903ec52cab",
+        "rev": "55d11e65e37e04a6cf7dd0f3c084f0022206625c",
         "type": "github"
       },
       "original": {
