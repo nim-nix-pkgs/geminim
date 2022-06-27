@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656283079,
-        "narHash": "sha256-jUM3QIvBSSilDDJ75uuq4Jg7oLVt3SCMNl3DKMuPopQ=",
+        "lastModified": 1656297725,
+        "narHash": "sha256-VBww1J/umEcQHIyld8+5urfIujuyKcUqjvbVZpu9IJ0=",
         "owner": "nim-nix-pkgs",
         "repo": "geminim",
-        "rev": "6243c8886fa50c1e529bb4084967c663791529a3",
+        "rev": "52fb47baa2c2d342518c9f0e8f3d6abcd594496f",
         "type": "github"
       },
       "original": {
@@ -70,11 +70,11 @@
     "src-geminim-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1653632460,
-        "narHash": "sha256-HTjvilJxt90LzI/AwlIp9FAHtMCMqvpVqDqcFrSRSe4=",
+        "lastModified": 1655111002,
+        "narHash": "sha256-91Xzj1ydIlOmlvwAnn/RTPI58Ycm6+0L0lAg0ZA1Y5w=",
         "owner": "IDF31",
         "repo": "geminim",
-        "rev": "d25768fd91129d6d03dc04bb68314720410ef4e8",
+        "rev": "053883efc9d432b65ba25e7db570487795ef4bb6",
         "type": "github"
       },
       "original": {
